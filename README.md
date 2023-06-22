@@ -94,6 +94,6 @@ function get_post_titles($post_ids) {
 **Submission:**
 - Modify the `README.md` file in your forked repository to include your answers to the multiple-choice questions and your code solution to the code challenge.
 - Commit and push your changes to your forked repository.
-- Send the link to your forked repository. 
+- Share the link to your forked repository for evaluation.
 
 
